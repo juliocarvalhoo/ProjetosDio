@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\bin\Debug\net6.0\InterfacesClasses.exe
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\bin\Debug\net6.0\InterfacesClasses.deps.json
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\bin\Debug\net6.0\InterfacesClasses.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\bin\Debug\net6.0\InterfacesClasses.dll
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\bin\Debug\net6.0\InterfacesClasses.pdb
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.dll
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\refint\InterfacesClasses.dll
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.pdb
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\InterfacesClasses.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\ProjetosDio\InterfacesClasses\obj\Debug\net6.0\ref\InterfacesClasses.dll
